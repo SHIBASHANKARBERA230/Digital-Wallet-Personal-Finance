@@ -141,8 +141,6 @@ JSP • Servlets • MVC • Service Layer • DAO • JDBC • MySQL • HttpSe
 💳 Wallet and payment operations are simulated.
 🚀 Future Enhancements
 🌐 REST API
-📱 Android Application
-☁️ Cloud Deployment
 📊 Advanced Financial Analytics
 📈 Expense Charts
 📄 PDF/Excel Reports
