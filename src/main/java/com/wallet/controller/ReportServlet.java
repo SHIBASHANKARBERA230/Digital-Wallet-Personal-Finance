@@ -16,3 +16,8 @@ public class ReportServlet extends HttpServlet {
     private final ReportService reportService =
             new ReportService();
 
+@Override
+    protected void doGet(
+            HttpServletRequest request,
+            HttpServletResponse response)
+            throws ServletException, IOException {
