@@ -16,3 +16,7 @@
 
         return;
     }
+ List<Notification> notifications =
+            (List<Notification>)
+                    request.getAttribute("notifications");
+%>
