@@ -31,3 +31,12 @@
                    initial-scale=1.0">
 
     <title>Notifications - Digital Wallet</title>
+ <style>
+
+        /* =====================================================
+           GLOBAL
+           ===================================================== */
+
+        * {
+            box-sizing: border-box;
+        }
