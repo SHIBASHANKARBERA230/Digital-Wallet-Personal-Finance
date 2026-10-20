@@ -88,3 +88,12 @@
             width: 100%;
 
             min-height: 85px;
+
+padding:
+                15px 5%;
+
+            background:
+                white;
+
+            border-bottom:
+                1px solid #e3e8f0;
