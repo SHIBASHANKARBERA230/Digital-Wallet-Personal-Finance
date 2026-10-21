@@ -109,3 +109,15 @@ padding:
 
         }
 
+.brand {
+
+            display:
+                flex;
+
+            align-items:
+                center;
+
+            gap:
+                13px;
+
+        }
