@@ -97,3 +97,15 @@ padding:
 
             border-bottom:
                 1px solid #e3e8f0;
+
+ display:
+                flex;
+
+            align-items:
+                center;
+
+            justify-content:
+                space-between;
+
+        }
+
