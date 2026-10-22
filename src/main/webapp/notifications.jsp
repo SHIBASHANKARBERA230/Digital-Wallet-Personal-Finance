@@ -121,3 +121,15 @@ padding:
                 13px;
 
         }
+.brand-logo {
+
+            width:
+                52px;
+
+            height:
+                52px;
+
+            object-fit:
+                contain;
+
+        }
