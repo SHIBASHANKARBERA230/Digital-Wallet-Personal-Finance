@@ -160,3 +160,15 @@ padding:
                 11px;
 
         }
+        .brand-subtitle {
+
+            margin-top:
+                3px;
+
+            color:
+                #7a8495;
+
+            font-size:
+                11px;
+
+        }
