@@ -29,6 +29,7 @@ public class WalletServiceImpl
             double amount) {
 
         if (userId <= 0 ||
+                !Double.isFinite(amount) ||
                 amount <= 0) {
 
             return false;
@@ -52,6 +53,7 @@ public class WalletServiceImpl
             double amount) {
 
         if (userId <= 0 ||
+                !Double.isFinite(amount) ||
                 amount <= 0) {
 
             return false;
