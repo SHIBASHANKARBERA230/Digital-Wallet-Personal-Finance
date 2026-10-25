@@ -133,3 +133,30 @@ padding:
                 contain;
 
         }
+
+.brand-name {
+
+            color:
+                #1268f3;
+
+            font-size:
+                22px;
+
+            font-weight:
+                bold;
+
+        }
+
+
+        .brand-subtitle {
+
+            margin-top:
+                3px;
+
+            color:
+                #7a8495;
+
+            font-size:
+                11px;
+
+        }
